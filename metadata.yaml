@@ -1,0 +1,30 @@
+_repo: Griechische-Altertumskunde_35230
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maisch, Richard
+    birthdate: 1860
+    gutenberg_agent_id: '37546'
+    url: http://www.gutenberg.org/2009/agents/37546
+  editor:
+    agent_name: Pohlhammer, Franz
+    gutenberg_agent_id: '35450'
+    url: http://www.gutenberg.org/2009/agents/35450
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2011-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35230'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DF'
+- !lcsh 'Greece -- Antiquities'
+title: Griechische Altertumskunde
+url: http://www.gutenberg.org/ebooks/35230
