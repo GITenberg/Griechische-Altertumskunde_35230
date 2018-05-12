@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '35450'
     url: http://www.gutenberg.org/2009/agents/35450
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35230#Griechische-Altertumskunde
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2011-02-09'
 gutenberg_type: Text
